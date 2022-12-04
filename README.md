@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin67891&label=Profile%20views&color=0e75b6&style=flat" alt="sachin67891" /> </p>
 
-- 🔭 I’m currently taking tarining on **javafullstackDeveloper by-jspider**
+- 🔭 I’m currently taking training on **javafullstackDeveloper by-jspider**
 
 - 🌱 I’m currently learning **javafullstackDeveloper by-jspider**
 
